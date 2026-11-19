@@ -163,12 +163,12 @@ The studio builds autonomous software systems capable of perception, planning, t
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Autonomous Multi-Agent Orchestrator</h4>
-      <p>Modular agentic runtime featuring dynamic tool execution, state graph transitions, and MCP protocol integration.</p>
+      <h4>⚡ <a href="https://github.com/growthstackk/github-profile-design-skill">GitHub Profile Design Agent Skill</a></h4>
+      <p>Autonomous AI agent skill enabling code agents to conduct developer intake, scout UI/UX references, plan branding, and deploy studio profiles.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent_Skill-38BDF8?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Public_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Workflow-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
